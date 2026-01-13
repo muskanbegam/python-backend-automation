@@ -3,7 +3,7 @@ import os
 # Path of the folder containing files
 folder_path = "files"
 
-# Get list of all items in the folder
+# Get list of all items in the folder.
 files = os.listdir(folder_path)
 
 count = 1
