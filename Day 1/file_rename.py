@@ -9,6 +9,8 @@ files = os.listdir(folder_path)
 count = 1
 
 for filename in files:
+
+    
     old_path = os.path.join(folder_path, filename)
 
     # Skip if it's not a file
@@ -19,7 +21,7 @@ for filename in files:
     name, extension = os.path.splitext(filename)
 
     # Create new filename
-    new_name = f"yooo_{count}{extension}"
+    new_name = f"index_{count}{extension}"
     new_path = os.path.join(folder_path, new_name)
 
     # Rename the file
