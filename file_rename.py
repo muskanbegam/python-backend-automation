@@ -21,7 +21,7 @@ for filename in files:
     name, extension = os.path.splitext(filename)
 
     # Create new filename
-    new_name = f"file_{count}{extension}"
+    new_name = f"yohooo_{count}{extension}"
     new_path = os.path.join(folder_path, new_name)
 
     # Rename the file
