@@ -1,0 +1,9 @@
+Python Backend and Automation Practice Repository This repository documents my journey of mastering Python backend development and automation through structured practice and real-world projects. It covers backend fundamentals, RESTful API development, authentication, database integration, web scraping, automation workflows, and performance optimization. The focus is on writing clean, scalable, and production-ready code while following best practices used in real backend systems. Key areas covered:
+
+Python backend fundamentals
+Flask-based REST APIs &FastAPI
+Authentication & authorization (JWT, sessions)
+Database integration (PostgreSQL / SQLite)
+Web scraping & browser automation
+Task automation & scripting
+Error handling, logging & security practices
